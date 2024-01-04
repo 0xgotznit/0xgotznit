@@ -13,7 +13,7 @@
 
 ## Let's keep in touch 
 <p align="left">
-<a href="https://twitter.com/m4raabi" target="blank">
+<a href="https://twitter.com/0xgotznit" target="blank">
   <img alt="X @0xgotznit" src="https://img.shields.io/twitter/follow/0xgotznit" alt="0xgotznit" >
 </a>
 </p>
