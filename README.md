@@ -3,7 +3,7 @@
 
 I'm Ayoub, a Go & Rust lang developer on a mission to unravel the magic of memory. Currently immersing myself in these languages and exploring the intricacies of Blockchain. Feel free to ask me about anything, from my current pursuits to tips on making the perfect tea.
 
-Want to get in touch? Find more details on [my website](https://0xgotznit.github.io/) or drop me a message on [X](message-link) (check out the link below for easy access!) 😊👇
+Want to get in touch? Find more details on [my website](https://0xgotznit.github.io/) or drop me a message on [X](https://twitter.com/0xgotznit) (check out the link below for easy access!) 😊👇
 
 <br/>
 
